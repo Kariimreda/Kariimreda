@@ -25,7 +25,7 @@
 
 Feel free to explore my GitHub repositories to see some of my work and projects.
 
-📫 You can reach me at redakariim3@gmail.com or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]('https://www.linkedin.com/in/kariim-reda-9a942b229')  to discuss collaborations, opportunities, or simply to chat about AI.
+📫 You can reach me at redakariim3@gmail.com or connect with me on LinkedIn to discuss collaborations, opportunities, or simply to chat about AI.
 
 Looking forward to connecting with fellow AI enthusiasts and collaborating on exciting projects!
 
